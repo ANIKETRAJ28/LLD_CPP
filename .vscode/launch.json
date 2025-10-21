@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/LLD/001_OOPS",
-      "program": "d:/LLD/001_OOPS/build/Debug/outDebug",
+      "cwd": "c:/Users/anike/Desktop/LLD_CPP/007_Observer_Design_Pattern",
+      "program": "c:/Users/anike/Desktop/LLD_CPP/007_Observer_Design_Pattern/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
