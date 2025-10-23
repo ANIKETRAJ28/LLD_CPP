@@ -1,1 +1,1 @@
-![Notification Engine](./notification-engine-uml.png)
+![Notification Engine](./notification_engine-uml.png)
